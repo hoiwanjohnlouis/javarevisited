@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dateformats/pom.xml" />
+        <option value="$PROJECT_DIR$/loophistory/pom.xml" />
+        <option value="$PROJECT_DIR$/fizzbuzzjava8/pom.xml" />
+        <option value="$PROJECT_DIR$/hashmapsorting/pom.xml" />
+        <option value="$PROJECT_DIR$/looppuzzlefail/pom.xml" />
+        <option value="$PROJECT_DIR$/staticbehavior/pom.xml" />
+        <option value="$PROJECT_DIR$/threadstopdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/csvreaderinjava/pom.xml" />
+        <option value="$PROJECT_DIR$/maximumminimumarray/pom.xml" />
+        <option value="$PROJECT_DIR$/twodimensionalarray/pom.xml" />
+        <option value="$PROJECT_DIR$/CopyNonEmptyDirectory/pom.xml" />
+        <option value="$PROJECT_DIR$/publicprivateprotected/pom.xml" />
+        <option value="$PROJECT_DIR$/keyfromvalueincollections/pom.xml" />
+        <option value="$PROJECT_DIR$/removeduplicatesfromarrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/swappingtwonumberswithouttemp/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="swappingtwonumberswithouttemp" />
+        <module name="twodimensionalarray" />
+        <module name="hashmapsorting" />
+        <module name="dateformats" />
+        <module name="looppuzzlefail" />
+        <module name="loophistory" />
+        <module name="threadstopdemo" />
+        <module name="keyfromvalueincollections" />
+        <module name="fizzbuzzjava8" />
+        <module name="staticbehavior" />
+        <module name="CopyNonEmptyDirectory" />
+        <module name="publicprivateprotected" />
+        <module name="maximumminimumarray" />
+        <module name="removeduplicatesfromarrayList" />
+        <module name="csvreaderinjava" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="CopyNonEmptyDirectory" target="11" />
+      <module name="csvreaderinjava" target="11" />
+      <module name="dateformats" target="11" />
+      <module name="fizzbuzzjava8" target="11" />
+      <module name="hashmapsorting" target="11" />
+      <module name="keyfromvalueincollections" target="11" />
+      <module name="loophistory" target="11" />
+      <module name="looppuzzlefail" target="11" />
+      <module name="maximumminimumarray" target="11" />
+      <module name="publicprivateprotected" target="11" />
+      <module name="removeduplicatesfromarrayList" target="11" />
+      <module name="staticbehavior" target="11" />
+      <module name="swappingtwonumberswithouttemp" target="11" />
+      <module name="threadstopdemo" target="11" />
+      <module name="twodimensionalarray" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

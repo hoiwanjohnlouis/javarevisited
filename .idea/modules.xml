@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CopyNonEmptyDirectory/CopyNonEmptyDirectory.iml" filepath="$PROJECT_DIR$/CopyNonEmptyDirectory/CopyNonEmptyDirectory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csvreaderinjava/csvreaderinjava.iml" filepath="$PROJECT_DIR$/csvreaderinjava/csvreaderinjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dateformats/dateformats.iml" filepath="$PROJECT_DIR$/dateformats/dateformats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizzbuzzjava8/fizzbuzzjava8.iml" filepath="$PROJECT_DIR$/fizzbuzzjava8/fizzbuzzjava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmapsorting/hashmapsorting.iml" filepath="$PROJECT_DIR$/hashmapsorting/hashmapsorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javarevisited.iml" filepath="$PROJECT_DIR$/.idea/javarevisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyfromvalueincollections/keyfromvalueincollections.iml" filepath="$PROJECT_DIR$/keyfromvalueincollections/keyfromvalueincollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loophistory/loophistory.iml" filepath="$PROJECT_DIR$/loophistory/loophistory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looppuzzlefail/looppuzzlefail.iml" filepath="$PROJECT_DIR$/looppuzzlefail/looppuzzlefail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maximumminimumarray/maximumminimumarray.iml" filepath="$PROJECT_DIR$/maximumminimumarray/maximumminimumarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publicprivateprotected/publicprivateprotected.iml" filepath="$PROJECT_DIR$/publicprivateprotected/publicprivateprotected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/removeduplicatesfromarrayList/removeduplicatesfromarrayList.iml" filepath="$PROJECT_DIR$/removeduplicatesfromarrayList/removeduplicatesfromarrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticbehavior/staticbehavior.iml" filepath="$PROJECT_DIR$/staticbehavior/staticbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swappingtwonumberswithouttemp/swappingtwonumberswithouttemp.iml" filepath="$PROJECT_DIR$/swappingtwonumberswithouttemp/swappingtwonumberswithouttemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadstopdemo/threadstopdemo.iml" filepath="$PROJECT_DIR$/threadstopdemo/threadstopdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twodimensionalarray/twodimensionalarray.iml" filepath="$PROJECT_DIR$/twodimensionalarray/twodimensionalarray.iml" />
+    </modules>
+  </component>
+</project>
